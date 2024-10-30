@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: izeechat\n"
+"POT-Creation-Date: 2016-02-09 14:49+0100\n"
+"PO-Revision-Date: 2016-02-09 14:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: Apizee <kevin.blossier@apizee.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../izeechat-admin.php:22
+msgid "About Izeechat"
+msgstr "À propos d'IzeeChat"
+
+#: ../izeechat-admin.php:23
+msgid ""
+"IzeeChat is a video conferencing solution with text messaging, allowing you "
+"to communicate directly with your visitors. So, you can offer your help and "
+"your advice instantly to your visitors when they need it..."
+msgstr ""
+" IzeeChat est une solution de visioconférence avec la messagerie texte, vous "
+"permettant de communiquer directement avec vos visiteurs. Ainsi, vous pouvez "
+"offrir votre aide et vos conseils instantanément à vos visiteurs quand ils "
+"en ont besoin..."
+
+#: ../izeechat-admin.php:24
+msgid "If you do not have an account:"
+msgstr "Si vous ne possédez pas de compte : "
+
+#: ../izeechat-admin.php:24
+msgid "Create an account"
+msgstr "Créer un compte"
+
+#: ../izeechat-admin.php:24
+msgid "//doc.apizee.com/izeechat-on-wordpress/"
+msgstr "//doc.apizee.com/izeechat-sur-wordpress/"
+
+#: ../izeechat-admin.php:24
+msgid "Documentation"
+msgstr "Documentation"
+
+#: ../izeechat-admin.php:31
+msgid "Site key"
+msgstr "Clé de site"
+
+#: ../izeechat-admin.php:34
+msgid "Your key..."
+msgstr "Votre clé..."
+
+#: ../izeechat-admin.php:35
+msgid ""
+"This is the key associated to your website, configured in your apizee "
+"account."
+msgstr ""
+"Renseignez ici, la clé associé à votre site web, configuré sur votre compte "
+"apizee."
+
+#: ../izeechat-admin.php:35
+msgid "Check the documentation for more informations"
+msgstr "Lisez la documentation pour plus d'informations"
+
+#: ../izeechat-admin.php:38
+msgid "Server domain [Optional]"
+msgstr "Domaine du serveur [Optionnel]"
+
+#: ../izeechat-admin.php:41
+msgid "Apizee server domain..."
+msgstr "Nom de domain du serveur apizee..."
+
+#: ../izeechat-admin.php:42
+msgid "eg: cloud.apizee.com"
+msgstr "ex :  cloud.apizee.com"
+
+#: ../izeechat-admin.php:48
+msgid "Update configuration"
+msgstr "Mettre à jour"
+
+#: ../izeechat-admin.php:49
+msgid "Click to access to Apizee dashboard"
+msgstr "Cliquez pour accéder au tableau de bord Apizee"
+
+#: ../izeechat-admin.php:49
+msgid "Access to Apizee dashboard"
+msgstr "Accéder au tableau de bord Apizee"
+
+#: ../izeechat.php:49
+msgid "Configure"
+msgstr "Configurer"
+
+#~ msgid "Enregistrer les modifications"
+#~ msgstr "Save modifications"
+
+#~ msgid "Enregistrer"
+#~ msgstr "Save"
+
+#~ msgid "API key"
+#~ msgstr "Clé API"
+
+#~ msgid "This is the key associated to your enterprise apizee account."
+#~ msgstr ""
+#~ "Renseignez ici, la clé associée à votre entreprise sur votre compte "
+#~ "apizee."
